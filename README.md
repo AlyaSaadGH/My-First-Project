@@ -21,9 +21,9 @@ HTML Code
                 <button class="btn" id="signUpBtn">Sign Up</button>
                 <p><a href="#" id="forgetPassword">Forget password</a></p>
             </div>
-        </div>\
+        </div>
         </body>
 </html>
 
-    </div>
+ 
 
