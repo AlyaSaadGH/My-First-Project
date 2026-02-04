@@ -27,8 +27,7 @@ HTML Code
 </html>
 
 
-    alert("Forget Password clicked!");
-});
+
 
 
  
